@@ -6,7 +6,7 @@
 
 Welcome to my SQL Portfolio! This repository showcases the skills and knowledge I have gained through my Udemy course while working with the ecommerce Mavenfuzzy Factory datasets. As a data analyst, I have honed my abilities to extract insights and make data-driven decisions to optimize business performance.
 
-![Data Analyst](![image](https://github.com/Pramod050/Advanced_SQL/assets/123252137/ca82dd5a-8118-46b2-8aef-ad04f6d0be22)) <!-- Replace with your image URL -->
+<img  alt="ER-Diagram" width="2000" src="https://github.com/Pramod050/Advanced_SQL/assets/123252137/dea9544a-e523-41ad-a39e-62062f53d06e">
 
 ## Table of Contents
 
